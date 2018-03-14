@@ -1,0 +1,25 @@
+{
+  "name": "42-sorting-algorithms",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) 42: Sorting Algorithms ======",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmurphy90/42-sorting-algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmurphy90/42-sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/dmurphy90/42-sorting-algorithms#readme",
+  "dependencies": {
+    "jest": "^22.4.2"
+  }
+}
